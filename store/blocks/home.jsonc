@@ -11,7 +11,7 @@
   "info-card": {
     "props": {
       "isFullModeStyle": false,
-      "textPosition": "right",
+      "textPosition": "left",
       "imageUrl": "https://ebookfriendly.com/wp-content/uploads/2013/11/Autumn-Books1.jpg",
       "headline": "Tienda de Xime",
       "subhead": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
@@ -25,11 +25,11 @@
     "props": {
       "isFullModeStyle": false,
       "textPosition": "right",
-      "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-rosa-min.png",
+      "imageUrl": "https://ebookfriendly.com/wp-content/uploads/2013/11/Autumn-Books1.jpg",
       "headline": "Vintage Pink",
-      "subhead": "Give your kitchen a boho style adding vintage apparels.<br>Available until January 2020.",
+      "subhead": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
       "callToActionMode": "button",
-      "callToActionText": "Explore",
+      "callToActionText": "Entra a la tienda!",
       "callToActionUrl": "/sale/d",
       "textAlignment": "center"
     }
