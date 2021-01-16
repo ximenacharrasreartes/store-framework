@@ -1,18 +1,16 @@
 {
-  "store.home": { 
+  "store.home": {
     "blocks": [
       "rich-text"
-      
+     
     ]
   },
   "rich-text": {
     "props": {
-<<<<<<< HEAD
-      "text": "**Hola, Mundo!**", 
-=======
       "text": "**Hello, World!**",
->>>>>>> 5020db92c44dacd865e7828c3b0980942589097b
-      "textPosition": "right"
+      "textPosition": "RIGHT"
     }
   }
-}
+ }
+  
+ 
