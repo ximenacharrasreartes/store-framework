@@ -1,6 +1,6 @@
 {
   "store.home": {
-    "blocks": ["rich-text", "info-card"]
+    "blocks": ["rich-text", "info-card", "info-card#button-right"]
   },
   "rich-text": {
     "props": {
