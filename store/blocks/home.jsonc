@@ -19,6 +19,7 @@
       "textAlignment": "center"
     }
   },
+  
   "info-card#button-right": {
     "props": {
       "isFullModeStyle": false,
