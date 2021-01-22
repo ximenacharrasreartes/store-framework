@@ -18,7 +18,7 @@
       "callToActionUrl": "/sale/d",
       "textAlignment": "center"
     }
-  }
+  },
   "info-card#button-right": {
     "props": {
       "isFullModeStyle": false,
