@@ -11,12 +11,12 @@
   "info-card": {
     "props": {
       "isFullModeStyle": false,
-      "textPosition": "left",
+      "textPosition": "right",
       "imageUrl": "https://ebookfriendly.com/wp-content/uploads/2013/11/Autumn-Books1.jpg",
-      "headline": "Tienda de Xime",
-      "subhead": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+      "headline": "Vintage Pink",
+      "subhead": "Give your kitchen a boho style adding vintage apparels.<br>Available until January 2020.",
       "callToActionMode": "button",
-      "callToActionText": "Entra a la tienda!",
+      "callToActionText": "Explore!",
       "callToActionUrl": "/sale/d",
       "textAlignment": "center"
     }
@@ -24,10 +24,10 @@
    "info-card#button-right": {
     "props": {
       "isFullModeStyle": false,
-      "textPosition": "right",
-      "imageUrl": "https://img5.goodfon.com/wallpaper/nbig/2/73/osen-listia-fon-derevo-kofe-colorful-kruzhka-chashka-vinta-1.jpg",
+      "textPosition": "left",
+      "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-cinza-min.png",
       "headline": "Shining Chrome",
-      "subhead": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+      "subhead": "Give your kitchen a cool style adding warm metallic finishes.<br>Available until January 2020.",
       "callToActionMode": "button",
       "callToActionText": "Go to colection",
       "callToActionUrl": "/sale/d",
