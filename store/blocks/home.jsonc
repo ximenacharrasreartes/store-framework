@@ -1,34 +1,35 @@
 {
   "store.home": {
-    "blocks": [
-      "rich-text",
-      "info-card#button-right"
-    ]
+    "blocks": ["rich-text", "info-card", "info-card#button-right"]
   },
-  
-  "info-card#button-right": {
+  "rich-text": {
+    "props": {
+      "text": "*Hello, World!*",
+      "textPosition": "RIGHT"
+    }
+  },
+  "info-card": {
     "props": {
       "isFullModeStyle": false,
-      "textPosition": "right",
-      "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-rosa-min.png",
-      "headline": "pointage Pink",
-      "subhead": "Give your kitchen a boho style adding vintage apparels.<br>Available until January 2020.",
+      "textPosition": "left",
+      "imageUrl": "https://ebookfriendly.com/wp-content/uploads/2013/11/Autumn-Books1.jpg",
+      "headline": "Tienda de Xime",
+      "subhead": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
       "callToActionMode": "button",
-      "callToActionText": "Explore",
+      "callToActionText": "Entra a la tienda!",
       "callToActionUrl": "/sale/d",
       "textAlignment": "center"
     }
   },
-
-  "info-card#button-left": {
+   "info-card#button-right": {
     "props": {
       "isFullModeStyle": false,
-      "textPosition": "left",
-      "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-rosa-min.png",
+      "textPosition": "right",
+      "imageUrl": "https://img5.goodfon.com/wallpaper/nbig/2/73/osen-listia-fon-derevo-kofe-colorful-kruzhka-chashka-vinta-1.jpg",
       "headline": "Shining Chrome",
-      "subhead": "Give your kitchen a boho style adding vintage apparels.<br>Available until January 2020.",
+      "subhead": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
       "callToActionMode": "button",
-      "callToActionText": "Explore",
+      "callToActionText": "Go to colection",
       "callToActionUrl": "/sale/d",
       "textAlignment": "center"
     }
